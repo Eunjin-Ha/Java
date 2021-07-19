@@ -1,7 +1,6 @@
-# Blackjack 
+# Java Projects
 
-
-
+[ Blackjack ] 
 Set nickname
 if nickname is null or “”
 
@@ -44,6 +43,13 @@ End
 
 
 
-
-
+[Bank Account]
+"✧✧✧ DESCRIPTION ✧✧✧ \n " +
+                "There are five options\n" +
+                "1.Add Accounts - Create Bank Account \n" +
+                "2.View Accounts - View all of Bank Accounts\n" +
+                "3.Account Details - View specific Info of the Bank Account using account number \n" +
+                "4.Modify Account - Change your account Info (Account number, Account name, Balance)\n" +
+                "5.Delete Account - Delete specific bank account using account number\n" +
+                "================== ==================";
 
