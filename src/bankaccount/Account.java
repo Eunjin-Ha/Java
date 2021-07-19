@@ -1,4 +1,4 @@
-package Assignment2_200466613;
+package bankaccount;
 
 public class Account {
     // Create appropriate variables
